@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(4, 217, 224);
+    background-image: url(https://pps.whatsapp.net/v/t61.24694-24/347263437_652752236699351_2010120458004632578_n.jpg?ccb=11-4&oh=01_AdR-RBhLWFzQGx42nAElB9B4UwbHOwZROfbS4u5unnLzrw&oe=64B32875);
+
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
